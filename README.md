@@ -10,7 +10,7 @@ The data generation engine is based on the dgMaster open-sourced data generation
 
 The White Mercury Data Generation tool is an executable shaded jar file.  A 'shaded' jar is a jar with all of it's run-time dependencies packed inside it.  The runMode option sets the primary operating mode for this utility.  All options are passed as Java system options.
 
-This is a test of JIRA integration with Github.
+This is a test of JIRA integration with Github.  Testing editing a file on Github.
 
 Usage
 -----
