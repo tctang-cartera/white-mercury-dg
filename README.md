@@ -47,4 +47,5 @@ Error: Could not find or load main class com.brc.white-mercury-dg.WhiteMercuryDG
 
 Et cetera
 ---------
-Once upon a midnight dreary ... 
+Once upon a midnight dreary
+While I pondered weak and weary
