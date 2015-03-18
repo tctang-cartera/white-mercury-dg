@@ -44,3 +44,7 @@ Notes
 -----
 java -jar target/white-mercury-dg-0.0.1-SNAPSHOT-shaded.jar
 Error: Could not find or load main class com.brc.white-mercury-dg.WhiteMercuryDGMain
+
+Et cetera
+---------
+Once upon a midnight dreary ... 
